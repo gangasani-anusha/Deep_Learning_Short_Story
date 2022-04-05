@@ -11,5 +11,7 @@ https://medium.com/@anusha.gangasani/vehicle-violation-detection-system-using-de
 ### Video Link:
 
 ### PPT Link:
+https://docs.google.com/presentation/d/1021EluYAMZhAq92U-V1JuYGeTPrbWstcBiT06q4LbdI/edit#slide=id.p
+
 
 
